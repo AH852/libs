@@ -13,6 +13,3 @@ cd (اسم الملف)
 ثم في pip
 ```sh
 pip install .
-
-
-
