@@ -1,0 +1,33 @@
+Metadata-Version: 2.2
+Name: my_lib
+Version: 0.1
+Summary: مكتبة رياضية بسيطة
+Home-page: https://github.com/yourusername/my_lib
+Author: اسمك
+Author-email: بريدك@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: summary
+
+# my_lib ًں“¦
+
+ًںڑ€ ظ…ظƒطھط¨ط© `my_lib` ظ‡ظٹ ظ…ظƒطھط¨ط© ط¨ط§ظٹط«ظˆظ† ط¨ط³ظٹط·ط© طھظˆظپط± ط¯ظˆط§ظ„ ط±ظٹط§ط¶ظٹط© ظ„ظ„ظ…ط·ظˆط±ظٹظ†.  
+
+## ًں“Œ ط§ظ„ظ…ظٹط²ط§طھ
+âœ… ط¹ظ…ظ„ظٹط§طھ ط­ط³ط§ط¨ظٹط© ط£ط³ط§ط³ظٹط© (+, -).  
+âœ… ط³ظ‡ظ„ط© ط§ظ„ط§ط³طھط®ط¯ط§ظ… ظˆط®ظپظٹظپط© ط§ظ„ظˆط²ظ†.  
+âœ… ظ…ظپطھظˆط­ط© ط§ظ„ظ…طµط¯ط± ظˆظ…ط¬ط§ظ†ظٹط©.  
+
+## ًں”§ ط§ظ„طھط«ط¨ظٹطھ
+ظٹظ…ظƒظ†ظƒ طھط«ط¨ظٹطھ ط§ظ„ظ…ظƒطھط¨ط© ط¨ط§ط³طھط®ط¯ط§ظ… `pip` ط¨ط¹ط¯ ظ†ط´ط±ظ‡ط§ ط¹ظ„ظ‰ PyPI:
+```sh
+pip install now_time
++
